@@ -59,10 +59,6 @@ If you'd like to contribute to SiteChat, please follow these steps:
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Thanks to the developers of Streamlit, LangChain, OpenAI, and other libraries used in this project.
